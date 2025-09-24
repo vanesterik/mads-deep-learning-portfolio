@@ -1,5 +1,26 @@
+# jekyll configuration for github pages
 remote_theme: harrywang/tailpages
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# site information used in page title, meta data etc.
 title: Data Science Portfolio
 description: Koen van Esterik
+
+# color theme for links
+theme-color: yellow # indigo|yellow|pink|green|stone|
+
+# homepage information
+author: Koen van Esterik
+author-bio: "Master's Student in Data Science"  # change to false to hide
+author-image: 2834734.jpeg  # file must be in the /assets/img/ folder
+
+# use false to turn off any social media links
+twitter: false
+facebook: false
+instagram: false
+github: https://github.com/vanesterik
+linkedin: https://www.linkedin.com/in/kdesterik/
+medium: false
+google-scholar: false
+email: false
