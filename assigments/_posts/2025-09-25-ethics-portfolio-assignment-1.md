@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Ethics - Portfolio Assignment 1
+title: "Ethics Portfolio Assignment #1"
 tags: ethics
 ---
 
-![Seems Ethical](https://images.unsplash.com/photo-1625244514957-a8cdb2b7df0a?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Spiderweb](https://images.unsplash.com/photo-1665607651776-f6b1941ad54b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-```text
-Course:         Master of Applied Data Science - Ethics
-Lectors:        - Sjors Goosens <sjors.goosens@han.nl>
-                - Martijn Hendriks <martijn.hendriks@han.nl>
-Institution:    HAN University of Applied Sciences
-```
+|           |                                       |
+| --------- | ------------------------------------- |
+| Date      | 25th of September 2025                |
+| Institute | HAN University of Applied Sciences    |
+| Course    | Deep Learning & Deployment (2025 P1A) |
+| Subject   | Ethics                                |
 
 ## Introduction
 
