@@ -25,8 +25,8 @@ nav-menu:
   permalink: about
 - text: Assignments
   permalink: assignments
-- text: Blog
-  permalink: blog
+- text: Reflections
+  permalink: reflections
 
 # use false to turn off any social media links
 twitter: false
