@@ -2,11 +2,10 @@
 remote_theme: harrywang/tailpages
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-readme-index
 
 # site information used in page title, meta data etc.
 title: Data Science Portfolio
-description: Koen van Esterik
+description: "Portfolio of Koen van Esterik, Master's Student in Data Science"
 
 # color theme for links
 theme-color: yellow # indigo|yellow|pink|green|stone|
@@ -15,6 +14,19 @@ theme-color: yellow # indigo|yellow|pink|green|stone|
 author: Koen van Esterik
 author-bio: "Master's Student in Data Science"  # change to false to hide
 author-image: 2834734.jpeg  # file must be in the /assets/img/ folder
+
+# navigation menu
+show-nav-menu: true
+
+nav-menu:
+- text: Home
+  permalink: /
+- text: About
+  permalink: about
+- text: Assignments
+  permalink: assignments
+- text: Blog
+  permalink: blog
 
 # use false to turn off any social media links
 twitter: false
@@ -25,3 +37,7 @@ linkedin: https://www.linkedin.com/in/kdesterik/
 medium: false
 google-scholar: false
 email: false
+
+# footer information
+footer-msg: "Educated by HAN University of Applied Sciences"
+footer-msg-link: https://www.hanuniversity.com/en/
