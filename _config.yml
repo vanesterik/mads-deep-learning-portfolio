@@ -2,6 +2,7 @@
 remote_theme: harrywang/tailpages
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-readme-index
 
 # site information used in page title, meta data etc.
 title: Data Science Portfolio
