@@ -16,18 +16,21 @@ tags: ethics
 
 ## Introduction
 
-For the lecture of ethics, we are asked to research ethical models. This to get a better understanding of how to approach ethical dilemmas in the field of data science.
+For the lectures of ethics, we are asked to research ethical models. This to get a better understanding of how to approach ethical dilemmas in the field of data science.
 
-I will perform a relatively simple literature study in order to gain knowledge on this field and comply with the assignment. I will research two ethical models, compare them, and state my preference. Finally, I will explain which model I believe is most suited for data ethics.
+I will perform a relatively simple literature study in order to gain knowledge on this field and comply with the assignment. I will research multiple ethical models and compare them. In conclusion, I will explain which model I believe is most suited for data ethics.
 
 ## Method
 
-The requirements for this literature study are as follows:
+The approach for this literature study are as follows:
 
 - Research internationally since the field of ethics is globally relevant.
 - Do not restrict the search to any timeframe as ethics is a long-standing field of study.
 - Focus on peer-reviewed journals and conference papers to ensure the quality and credibility of the sources.
 - Use keywords such as "ethical models", "ethical frameworks", "decision making", and "list of ethical models" to find relevant literature.
+- Use boolean operators (AND, OR, NOT) to refine the search results.
+- Use search engines and databases such as DuckDuckGo, Wikipedia and ScienceDirect to find relevant articles.
+- Summarize and compare the models based on their key features, strengths, and weaknesses.
 
 ## Results
 
@@ -47,13 +50,15 @@ Below a table summarizing and comparing four notable models:
 
 The fact that these models were so easy to find, leads me to believe that there are many more models out there. This was also eluded to by our lecturer.
 
-With this in mind I would expect a model that is specifically designed for data ethics to exist. The only exception to this is *The Ethical Decision-Making Algorithm*, as this is not really a model but a roadmap to develop ethical algorithms.
+With this in mind I would expect a model that is specifically designed for data ethics to exist, but I have not found one. The only exception to this statement is *The Ethical Decision-Making Algorithm*, which is not so much a model as it is a roadmap for developing ethical algorithms.
+
+With more time I would have liked to explore more models and perhaps find one that is specifically designed for data ethics. However, I do believe that the models I have researched are relevant and applicable to the field of data science.
 
 ## Conclusion
 
 After comparing the models, I find *The Potter Box* to be the most appealing. It provides a clear and structured approach to ethical decision-making, which is crucial in the complex field of data science. It aligns well with the various facets of ethical dilemmas in data science.
 
-However, I do acknowledge that applying the model may lead to different decisions based on individual interpretations. But this could also be seen as a strength, as one could apply the model with multiple stakeholders to reach a consensus. I am Dutch and the Dutch are known for their polder model, which is all about consensus and logical for me to apply to ethical decision-making.
+However, I do acknowledge that applying the model may lead to different decisions based on individual interpretations. But this could also be seen as a strength, as one could apply the model with multiple stakeholders to reach a consensus. I am Dutch - and the Dutch are known for their *'polder model'*, which is all about consensus and therefore logical and appealing for me to apply to ethical decision-making.
 
 ## References
 
