@@ -18,6 +18,17 @@ tags: ethics
 
 For the lectures of ethics, we are asked to research ethical models. This to get a better understanding of how to approach ethical dilemmas in the field of data science.
 
+The terms used in the assignment description are defined as follows:
+
+| Term            | Definition                                                                                                            |
+| --------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Ethics          | Values held by society as a whole. (e.g. societal norms)                                                              |
+| Ethical model   | A framework for making ethical decisions.                                                                             |
+| Ethical dilemma | A situation in which two or more conflicting moral imperatives, none of which overrides the other, confront an agent. |
+| Data Science    | The extraction or extrapolation of knowledge from structured or unstructured data.                                   |
+
+These definitions will be used as the foundation for this assignment.
+
 I will perform a relatively simple literature study in order to gain knowledge on this field and comply with the assignment. I will research multiple ethical models and compare them. In conclusion, I will explain which model I believe is most suited for data ethics.
 
 ## Method
